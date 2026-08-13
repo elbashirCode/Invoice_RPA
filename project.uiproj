@@ -1,0 +1,6 @@
+{
+  "Name": "Invoice_RPA",
+  "ProjectType": "Process",
+  "Description": "معالجة فواتير المشتريات وإدخالها في نظام المبيعات/المحاسبة",
+  "MainFile": "Main.xaml"
+}

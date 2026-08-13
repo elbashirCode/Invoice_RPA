@@ -1,0 +1,8 @@
+.local/
+.objects/
+.tmps/
+.screenshots/
+ExecutionTesting/
+*.log
+Data/Output/*
+!Data/Output/.gitkeep

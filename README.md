@@ -89,9 +89,7 @@
 ###### \## 🚀 How to Run
 
 ###### 1\. Clone this repository:
-https://github.com/elbashirCode/Invoice_RPA.git
 
 ###### &#x20;  ```bash
 
-###### &#x20;  git clone \[https://github.com/elbashirCode/Invoice_RPA.git](https://github.com/elbashirCode/Invoice_RPA.git)
-
+###### &#x20;  git clone https://github.com/elbashirCode/Invoice_RPA.git
